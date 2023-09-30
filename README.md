@@ -36,9 +36,13 @@
 <a target="_blank" href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="48" ></a>&nbsp;
 
 <a target="_blank" href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="48" ></a>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" height="48" >&nbsp;
+<a target="_blank" href="https://redis.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" height="48" ></a>&nbsp;
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" height="48" >&nbsp;
+<a target="_blank" href="https://graphql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" height="48" ></a>&nbsp;
+
+<a target="_blank" href="https://github.com/grafana"><img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg" alt="Grafana" height="48" ></a>&nbsp;
+<a target="_blank" href="https://github.com/elastic"><img src="https://avatars.githubusercontent.com/u/6764390?s=48&v=4" alt="Elastic" height="48" ></a>&nbsp;
+<a target="_blank" href="https://sentry.io/"><img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5dc917e0-5229-440c-9b19-a373e0bcc6b5.png" alt="Logstash" height="48" ></a>&nbsp;
 
 ## Operation systems
 _The operating systems I work with almost every day._
