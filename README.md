@@ -1,3 +1,15 @@
+I am an experienced Full-Stack developer with over 17 years of experience in developing websites, e-shops, and mobile applications. I specialize in custom development, SEO, system integration, and server management.
+
+I have extensive knowledge in Python, PHP, C++, and C#. My experience with containerization, especially with Docker, enables me to deploy and manage applications efficiently across different environments.
+
+I focus on integrating third-party systems, including ERP, EDI, accounting systems, payment gateways, and marketplaces. I also have significant experience in creating custom API solutions, such as RestAPI, GraphQL, SOAP, OData, and Websocket.
+
+I work with microservices architecture, which allows for flexible and scalable application development. Microservices facilitate breaking down complex systems into smaller, independently deployable services, increasing agility and simplifying maintenance.
+
+Additionally, I have considerable expertise with relational databases, such as SQL, PostgreSQL, MySQL, and MSSQL, and with data analysis for better decision-making and process optimization.
+
+In my spare time, I engage in smart home projects and keep up with the latest trends in software development.
+
 
 ## Languages and Tools:
 
