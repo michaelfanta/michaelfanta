@@ -79,10 +79,11 @@ _Smart home is more of my hobby. From various sensors to my fully automated aqua
 ## Supported accounting systems
 _I can connect these accounting systems to your e-shop, for example._
 
+<a target="_blank" href="https://www.abra.eu/erp-system-abra-gen/"><img src="https://www.abra.eu/wp-content/uploads/2021/11/logo-abra.svg" alt="Abra Gen" height="36"></a>&nbsp;
+<a target="_blank" href="https://www.floresps.cz/"><img src="https://www.floresps.cz/wp-content/themes/wp/static/images/logo.svg" alt="Abra Flores" height="36"></a>&nbsp;
+<a target="_blank" href="https://www.abra.eu/flexi/"><img src="https://www.arit.cz/wp-content/uploads/logo-ABRA-Flexi-300x.png" alt="Abra Flexi" height="48"></a>&nbsp;
 <a target="_blank" href="https://money.cz/"><img src="https://www.servis-money.cz/wp-content/uploads/2016/12/SOLITEA_MONEY_S3_ZKRACENY_RGB-5.jpg" alt="MoneyS3" height="48" ></a>&nbsp;
 <a target="_blank" href="https://moneyerp.com/"><img src="https://www.servis-money.cz/wp-content/uploads/2022/09/SOLITEA_MONEY_ERP_zkracene_RGB.png" alt="MoneyERP" height="48" ></a>&nbsp;
-<a target="_blank" href="https://www.abra.eu/flexi/"><img src="https://www.arit.cz/wp-content/uploads/logo-ABRA-Flexi-300x.png" alt="Abra Flexi" height="48"></a>&nbsp;
-<a target="_blank" href="https://www.helios.eu/"><img src="https://www.dataczech.com/wp-content/uploads/2018/12/Helios-logo.png" alt="Helios" height="48"></a>&nbsp;
 <a target="_blank" href="https://www.stormware.cz/pohoda/"><img src="https://www.itmedia.cz/wp-content/uploads/2018/12/pohoda-logo.jpg" alt="Pohoda" height="36"></a>&nbsp;
 <a target="_blank" href="http://www.cezar.cz/"><img src="http://www.cezar.cz/images/logo.png" alt="CÉZAR®" height="36"></a>&nbsp;
 
