@@ -41,6 +41,8 @@ I help companies connect systems that don't talk to each other, automate routine
 **AI & LLM tooling** — OpenAI · Anthropic · LangChain · LlamaIndex · Ollama
 
 > Practical AI integration: structured outputs, RAG over company documents, batch enrichment, custom assistants. With safety guardrails and human-in-the-loop where it matters.
+>
+> I use the same tools on my own work — generating documentation, scaffolding tests, keeping docs in sync with repo changes — so I can stay focused on what I actually love: building applications end-to-end.
 
 ---
 
@@ -54,13 +56,13 @@ Abra Gen · Abra Flexi · Abra Flores · Money S3 · Money ERP · Pohoda · Céz
 
 ## E-commerce platforms
 
-Shoptet · Shopify
+I build, customize, and integrate on **Shoptet** and **Shopify** — and migrate clients onto these platforms from Upgates, Eshop-rychle, FastCentrik, WooCommerce, and others.
 
 ---
 
 ## Operating systems
 
-macOS · Ubuntu · Debian · CentOS
+macOS · Ubuntu · Debian · CentOS · Windows Server
 
 ---
 
